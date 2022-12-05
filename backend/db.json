@@ -1,0 +1,14 @@
+{
+  "sites": [
+    {
+      "id": 1,
+      "name": "EESS Vic",
+      "country": "España"
+    },
+    {
+      "id": 2,
+      "name": "EESS Torelló",
+      "country": "España"
+    }
+  ]
+}

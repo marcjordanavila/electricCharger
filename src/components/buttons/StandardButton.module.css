@@ -1,0 +1,32 @@
+.principalButton {
+  background-color: var(--blueAlvic500) !important;
+  color: var(--greyAlvic0) !important;
+  font-weight: 500 !important;
+}
+
+.principalButton:disabled {
+  background-color: var(--greyAlvic100) !important;
+  color: var(--greyAlvic700) !important;
+  font-weight: 500 !important;
+}
+
+.secondaryButton {
+  color: var(--blueAlvic700) !important;
+  background-color: var(--greyAlvic0) !important;
+}
+
+.centered {
+  text-align: center;
+}
+
+.left {
+  text-align: left;
+}
+
+.right {
+  text-align: right;
+}
+
+.borderRadius {
+  border-radius: 5px;
+}
